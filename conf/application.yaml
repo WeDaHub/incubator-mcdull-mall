@@ -1,0 +1,12 @@
+server:
+  domain: http://127.0.0.1:80         # 微信云托管域名
+
+wxmini:
+  appid: wx3a3fxxxxxxx12a39e
+  appsecret: 202771fc6dxxxxxxxxxxxxxxd1f955
+
+database:
+  addr: 127.0.0.1:3306
+  user: root
+  pass: 123456
+  dbname: wechat_mall
